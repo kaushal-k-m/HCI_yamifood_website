@@ -621,7 +621,7 @@ select.form-control:focus::-ms-value {
   line-height: 50px;
   display: inline-block;
   padding: 0 10px;
-  float: left;
+
   width: 100%;
   border: none;
   cursor: pointer;

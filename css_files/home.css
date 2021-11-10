@@ -267,12 +267,6 @@ body {
   border: 2px solid black;
   font-family: mySecondFont;
   font-size: 20px;
-
-  /* background-color: white;
-  color: black;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer; */
 }
 .btn-lg {
   padding: 0.5rem 1rem;
@@ -483,7 +477,7 @@ body {
   bottom: -100%;
   right: 0;
   height: 100%;
-  background: rgba(207, 166, 113, 0.9);
+  background: rgb(73, 17, 28);
   padding: 12px 12px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
